@@ -6,3 +6,9 @@
   <br>
   <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div><br>
+
+<div align="center">
+  
+![image](https://github.com/thaliadani/alura-consultas/assets/31187727/c3b0ca1e-2d8d-4885-92b3-12cbc9ce21f6)
+
+</div>
