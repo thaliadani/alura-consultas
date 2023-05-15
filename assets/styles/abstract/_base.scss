@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+@import './variaveis';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, main{
+    background-color: $cor-fundo;
+    font-family: $fonte;
+    padding: 0.5rem;
+}
+
+

@@ -1,0 +1,35 @@
+@import '../abstract/variaveis';
+
+.seu-perfil{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 2rem;
+    .seu-perfil__foto{
+        width: 57px;
+        height: 57px;
+        border-radius: 100%; 
+    }
+    .seu-perfil__informacoes{
+        display: flex;
+        flex-direction: column;
+        span:nth-child(1){
+            color: $cor-secundaria;
+            font-size: 22px;
+            font-weight: 700;
+            padding-bottom: 0.2rem;
+        }
+        span:nth-child(2){
+            color: $cor-terciaria;
+            font-size: 14px;
+        }
+    }
+
+}
+
+.data{
+    color: $cor-secundaria;
+    font-size: 16px;
+    font-weight: 700;
+}
+
