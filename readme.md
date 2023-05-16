@@ -9,6 +9,6 @@
 
 <div align="center">
   
-![image](https://github.com/thaliadani/alura-consultas/assets/31187727/c3b0ca1e-2d8d-4885-92b3-12cbc9ce21f6)
+![image](https://github.com/thaliadani/alura-consultas/assets/31187727/9dc3dcdd-637f-431d-b725-acae27163e70)
 
 </div>
