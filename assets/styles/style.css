@@ -93,12 +93,15 @@ body, main {
   justify-content: center;
   font-size: 14px;
   font-weight: 500;
-  padding-top: 1rem;
+  margin-top: 1rem;
+}
+.card .consultas__botoes button {
+  cursor: pointer;
+  border-radius: 0.5rem;
 }
 .card .consultas__botoes .video {
   background-color: #FFB050;
   border: solid #FFB050 0.1rem;
-  border-radius: 0.5rem;
   color: #FFFFFF;
   margin-right: 1rem;
   width: 139px;
@@ -107,7 +110,6 @@ body, main {
 .card .consultas__botoes .audio {
   background-color: #FFFFFF;
   border: solid #ECECEC 0.1rem;
-  border-radius: 0.5rem;
   color: #464646;
   width: 139px;
   height: 48px;
@@ -115,9 +117,7 @@ body, main {
 .card .consultas__botoes .endereco {
   background-color: #4894FF;
   border: solid #4894FF 0.1rem;
-  border-radius: 0.5rem;
   color: #FFFFFF;
-  margin-right: 1rem;
   width: 400px;
   height: 46px;
 }/*# sourceMappingURL=style.css.map */
